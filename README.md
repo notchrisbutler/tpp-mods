@@ -26,7 +26,10 @@ Coming soon.
 
 ## Presets
 
-Coming soon.
+<details>
+<summary>RealHouse2023</summary>
+Politician preset for US House of Representatives, as of January 2023. Each politician reflects the real-life counterpart including positions in Congress.
+</details>
 
 ## Advanced Options
 
@@ -40,7 +43,6 @@ Coming soon.
 
 <details>
 <summary>How do I install mods?</summary>
-
 Coming soon.
 </details>
 
