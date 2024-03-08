@@ -40,8 +40,6 @@ Coming soon.
 Coming soon.
 </details>
 
-<details>
-
 For more FAQs and troubleshooting tips, check out the [FAQ.md](FAQ.md) file in this repository.
 
 ## Credits
