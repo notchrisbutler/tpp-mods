@@ -26,7 +26,7 @@ Coming soon.
 
 ## Group Politician Presets
 
-- [RealHouse2023](presets/RealHouse2023.json)
+- [RealHouse2023](presets/RealHouse2023)
 
 ## Advanced Options
 
