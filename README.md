@@ -27,7 +27,7 @@ Coming soon.
 ## Presets
 
 <details>
-<summary>RealHouse2023</summary>
+<summary>[RealHouse2023](presets/RealHouse2023.json)</summary>
 Politician preset for US House of Representatives, as of January 2023. Each politician reflects the real-life counterpart including positions in Congress.
 </details>
 
