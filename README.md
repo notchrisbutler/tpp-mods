@@ -9,9 +9,9 @@ Welcome to the repository for mods, presets, advanced options, and configuration
 ## Table of Contents
 
 - [Installation](#installation)
-- [Mods](#mods)
-- [Presets](#presets)
 - [Advanced Options](#advanced-options)
+- [Group Politician Presets](#group-politician-presets)
+- [Individual Politician Presets](#individual-politician-presets)
 - [Configurations](#configurations)
 - [FAQ](#faq)
 - [Credits](#credits)
