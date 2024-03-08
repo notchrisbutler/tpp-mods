@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notchrisbutler/tpp-mods/main/assets/tpp.webp" alt="The Political Process Game banner" />
+  <img src="../../assets/tpp.webp" alt="The Political Process Game banner" />
 </p>
 
 # RealHouse2023 
@@ -14,13 +14,13 @@ US House of Representatives politician preset as of January 2023.
 </ul>
 </p>
 
-## View Raw File (right-click to download)
+## View Raw JSON File (right-click to download)
 
 - [RealHouse2023.json](https://raw.githubusercontent.com/notchrisbutler/tpp-mods/main/presets/RealHouse2023/RealHouse2023.json)
 
 ## Installation
 
-Check out our [guide](README.md#installation) for instructions on installing configs, presets, custom events, and more.
+Check out our [guide](../.././README.md#installation) for instructions on installing configs, presets, custom events, and more.
 
 ## Known Issues
 
