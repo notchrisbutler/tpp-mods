@@ -39,7 +39,7 @@ Coming soon.
 ## FAQ
 
 - Can I submit my custom events and presets to be added?
-  - Yes! If you know what you're doing, you can submit a merge request with your file. Otherwise, create a <a href='https://github.com/notchrisbutler/tpp-mods/issues/new'>new issue ticket</a> and fill it out, I will review and add your content to the list.
+  - Yes! Create a <a href='https://github.com/notchrisbutler/tpp-mods/issues/new'>new issue ticket</a> with the JSON of your content or create a merge request from a branch.
 
 
 ## Known Issues
