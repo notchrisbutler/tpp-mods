@@ -20,17 +20,14 @@ Welcome to the repository for mods, presets, advanced options, and configuration
 
 Coming soon.
 
-## Mods
+## Advanced Options
 
-Coming soon.
+- [RealStart2023](advanced_options/RealStart2023)
 
 ## Group Politician Presets
 
 - [RealHouse2023](presets/RealHouse2023)
-
-## Advanced Options
-
-Coming soon.
+- [RealSenate2023](presets/RealSenate2023)
 
 ## Individual Politician Presets
 

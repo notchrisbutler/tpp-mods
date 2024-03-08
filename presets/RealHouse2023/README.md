@@ -2,12 +2,18 @@
   <img src="../../assets/tpp.webp" alt="The Political Process Game banner" />
 </p>
 
-# RealHouse2023 
+# RealHouse2023 by [somberg](https://discordapp.com./users/315881020606119938)
 US House of Representatives politician preset as of January 2023.
+
 
 #### Author Notes:
 <ul>
-  <li style="font-size: small";>Updated ages for all Senators, history + PP for re-elected Senators, and new Senators elected in 2022. Also dropped Kyrsten Sinema's approval with all groups.
+  <li style="font-size: small;">
+    Includes all new House members; updated incumbents, committees, and caucuses; and new Dem House leadership. MUST be used with RealStart 2023 or an advops that sets the number of House seats correctly for the 2020s otherwise there will be House members in the wrong districts and states.
+  </li>
+  <li style="font-size: small;">
+    <strong>Must be used with RealStart2023 advanced options</strong>
+  </li>
 </ul>
 </p>
 
@@ -17,12 +23,8 @@ US House of Representatives politician preset as of January 2023.
 
 ## Installation
 
-Check out our [guide](../.././README.md#installation) for instructions on installing configs, presets, custom events, and more.
+Check out our [guide](../.././README.md#installation) for instructions on importing configs, presets, custom events, and more.
 
 ## Known Issues
 
 - No known issues. Report any problems by creating a [new issue](https://github.com/notchrisbutler/tpp-mods/issues/new).
-
-## Credits
-
-- RealHouse2023 is authored by [somberg](https://discordapp.com./users/315881020606119938)
