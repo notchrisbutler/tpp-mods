@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/tpp.webp" alt="The Political Process Game">
+</p>
+
 # The Political Process
 
 Welcome to the repository for mods, presets, advanced options, and configurations for The Political Process game on Steam. This repository aims to enhance your gameplay experience by providing various customization options.
