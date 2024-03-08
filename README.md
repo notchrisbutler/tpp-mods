@@ -26,10 +26,9 @@ Coming soon.
 
 ## Presets
 
-<details>
-<summary>[RealHouse2023](presets/RealHouse2023.json)</summary>
-Politician preset for US House of Representatives, as of January 2023. Each politician reflects the real-life counterpart including positions in Congress.
-</details>
+- [RealHouse2023](presets/RealHouse2023.json)
+  - US House of Representatives politician preset that reflects the real-life US House makeup as of January 2023.
+  - Recommended to apply this preset to a game starting in the year 2023
 
 ## Advanced Options
 
