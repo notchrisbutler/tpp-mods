@@ -24,29 +24,27 @@ Coming soon.
 
 Coming soon.
 
-## Presets
+## Group Politician Presets
 
 - [RealHouse2023](presets/RealHouse2023.json)
-
-  - US House of Representatives politician preset that reflects the real-life US House makeup as of January 2023.
-  - Recommended to apply this preset to a game starting in the year 2023
 
 ## Advanced Options
 
 Coming soon.
 
-## Configurations
+## Individual Politician Presets
 
 Coming soon.
 
 ## FAQ
 
-<details>
-<summary>How do I install mods?</summary>
-Coming soon.
-</details>
+- Can I submit my custom events and presets to be added?
+  - Yes! If you know what you're doing, you can submit a merge request with your file. Otherwise, create a <a href='https://github.com/notchrisbutler/tpp-mods/issues/new'>new issue ticket</a> and fill it out, I will review and add your content to the list.
 
-For more FAQs and troubleshooting tips, check out the [FAQ.md](FAQ.md) file in this repository.
+
+## Known Issues
+
+- No known issues. Please report any problems via thie Issues 
 
 ## Credits
 
