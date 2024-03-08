@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tpp.webp" alt="The Political Process Game">
+  <img src="assets/tpp.webp" alt="The Political Process Game banner" />
 </p>
 
 # The Political Process

@@ -1,25 +1,26 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notchrisbutler/tpp-mods/main/assets/tpp.webp" alt="The Political Process Game">
+  <img src="https://raw.githubusercontent.com/notchrisbutler/tpp-mods/main/assets/tpp.webp" alt="The Political Process Game banner" />
 </p>
 
-# RealHouse2023
-
+# RealHouse2023 
 US House of Representatives politician preset as of January 2023.
 
-Recommended to apply preset to a new game with start year as 2023.
+#### Author(s):
+- <span style="font-size: small;">somberg</span>
 
-## Download
+#### Author Notes:
+<ul>
+  <li style="font-size: small";>Updated ages for all Senators, history + PP for re-elected Senators, and new Senators elected in 2022. Also dropped Kyrsten Sinema's approval with all groups.
+</ul>
+</p>
 
-- [RealHouse2023.json](RealHouse2023.json)
+## View Raw File (right-click to download)
+
+- [RealHouse2023.json](https://raw.githubusercontent.com/notchrisbutler/tpp-mods/main/presets/RealHouse2023/RealHouse2023.json)
 
 ## Installation
 
 Check out our [guide](README.md#installation) for instructions on installing configs, presets, custom events, and more.
-
-## FAQ
-
-- Coming soon, if needed.
-
 
 ## Known Issues
 
