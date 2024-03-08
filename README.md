@@ -1,4 +1,4 @@
-# The Political Process Game Repository
+# The Political Process
 
 Welcome to the repository for mods, presets, advanced options, and configurations for The Political Process game on Steam. This repository aims to enhance your gameplay experience by providing various customization options.
 
