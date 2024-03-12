@@ -2,7 +2,7 @@
   <img src="../../assets/tpp.webp" alt="The Political Process Game banner" />
 </p>
 
-# RealHouse2023 by [somberg](https://discordapp.com./users/315881020606119938)
+# RealHouse2023 by [somberg](https://discordapp.com/users/315881020606119938)
 US House of Representatives politician preset as of January 2023.
 
 Must be used with [RealStart2023](../../advanced_options/RealStart2023) advanced options.
