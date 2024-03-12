@@ -7,8 +7,9 @@
 ## Description
 <p>You are approached by a representative from a local escort service.</p>
 
-## Json File Download
-[Sex Event.json](https://github.com/notchrisbutler/tpp-mods/blob/main/events/Sex%20Event/SexEvent.json)
+## View Raw JSON File (right-click to download)
+
+- [SexEvent.json](https://github.com/notchrisbutler/tpp-mods/blob/main/events/Sex%20Event/SexEvent.json)
 
 ## Installation
 

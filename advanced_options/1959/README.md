@@ -12,8 +12,9 @@
   <li>Updated county populations for HI, CT, DE, and RI</li>
 </ul>
 
-## Json File Download
-[1959.json](https://github.com/notchrisbutler/tpp-mods/blob/main/advanced_options/1959/1959V27.json)
+## View Raw JSON File (right-click to download)
+
+- [1959V27.json](https://github.com/notchrisbutler/tpp-mods/blob/main/advanced_options/1959/1959V27.json)
 
 ## Installation
 

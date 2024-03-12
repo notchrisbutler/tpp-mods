@@ -5,10 +5,11 @@
 # Shifting Demographics by [Ontari](https://discord.com/users/290931937105936405)
 
 ## Description
-<p>You are approached by a representative from a local escort service.</p>
+<p>Coming soon.</p>
 
-## Json File Download
-[Shifting Demographics 0.75%.txt](https://github.com/notchrisbutler/tpp-mods/blob/main/events/Shifting%20Demographics/ShiftingDemographics075.txt)
+## View Raw JSON File (right-click to download)
+
+- [ShiftingDemographics075.json](https://github.com/notchrisbutler/tpp-mods/blob/main/events/Shifting%20Demographics/ShiftingDemographics075.json)
 
 ## Installation
 
