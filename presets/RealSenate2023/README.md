@@ -2,7 +2,7 @@
   <img src="../../assets/tpp.webp" alt="The Political Process Game banner" />
 </p>
 
-# RealSenate2023 by [somberg](https://discordapp.com./users/315881020606119938)
+# RealSenate2023 by [somberg](https://discordapp.com/users/315881020606119938)
 US Senate politician preset as of January 2023.
 
 
