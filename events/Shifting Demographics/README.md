@@ -2,13 +2,13 @@
   <img src="https://github.com/notchrisbutler/tpp-mods/blob/main/assets/tpp.webp" alt="The Political Process Game banner"/>
 </p>
 
-# Sex Event by [Ontari](https://discord.com/users/290931937105936405)
+# Shifting Demographics by [Ontari](https://discord.com/users/290931937105936405)
 
 ## Description
 <p>You are approached by a representative from a local escort service.</p>
 
 ## Json File Download
-[Shifting Demographics 0.75%](https://github.com/notchrisbutler/tpp-mods/blob/main/events/Sex%20Event/SexEvent.json)
+[Shifting Demographics 0.75%.txt](https://github.com/notchrisbutler/tpp-mods/blob/main/events/Shifting%20Demographics/ShiftingDemographics075.txt)
 
 ## Installation
 
