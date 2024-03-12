@@ -13,7 +13,7 @@
 </ul>
 
 ## Json File Download
-[1959.json](https://github.com/notchrisbutler/tpp-mods/blob/main/events/1959/1959.json)
+[1959.json](https://github.com/notchrisbutler/tpp-mods/blob/main/events/1959/1959V27.json)
 
 ## Installation
 
