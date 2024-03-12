@@ -12,6 +12,7 @@ Welcome to the repository for mods, presets, advanced options, and configuration
 - [Advanced Options](#advanced-options)
 - [Group Politician Presets](#group-politician-presets)
 - [Individual Politician Presets](#individual-politician-presets)
+- [Event](#events)
 - [Configurations](#configurations)
 - [FAQ](#faq)
 - [Credits](#credits)
@@ -30,9 +31,11 @@ Coming soon.
 - [RealSenate2023](presets/RealSenate2023)
 
 ## Individual Politician Presets
-
 Coming soon.
 
+## Events
+- [Sex Event](events/Sex%20Event)
+- [Shifting Demographics](events/Shifting%20Demographics) 
 ## FAQ
 
 - Can I submit my custom events and presets to be added?
