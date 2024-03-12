@@ -33,9 +33,11 @@ Coming soon.
 ## Individual Politician Presets
 Coming soon.
 
-## Events
+## Custom Events
+
 - [Sex Event](events/Sex%20Event)
 - [Shifting Demographics](events/Shifting%20Demographics) 
+
 ## FAQ
 
 - Can I submit my custom events and presets to be added?
