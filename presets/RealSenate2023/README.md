@@ -11,9 +11,6 @@ US Senate politician preset as of January 2023.
   <li style="font-size: small";>
     Updated ages for all Senators, history + PP for re-elected Senators, and new Senators elected in 2022. Also dropped Kyrsten Sinema's approval with all groups.
   </li>
-  <li style="font-size: small";>
-    Recommended to be used with RealStart2023 Advanced Options
-  </li>
 </ul>
 </p>
 

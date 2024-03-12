@@ -5,14 +5,13 @@
 # RealHouse2023 by [somberg](https://discordapp.com./users/315881020606119938)
 US House of Representatives politician preset as of January 2023.
 
+Must be used with [RealStart2023](../../advanced_options/RealStart2023) advanced options.
+
 
 #### Author Notes:
 <ul>
   <li style="font-size: small;">
     Includes all new House members; updated incumbents, committees, and caucuses; and new Dem House leadership. MUST be used with RealStart 2023 or an advops that sets the number of House seats correctly for the 2020s otherwise there will be House members in the wrong districts and states.
-  </li>
-  <li style="font-size: small;">
-    <strong>Must be used with RealStart2023 advanced options</strong>
   </li>
 </ul>
 </p>
